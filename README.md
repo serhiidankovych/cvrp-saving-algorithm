@@ -1,4 +1,4 @@
-# CVRP Solver with Sweeping Algorithm
+# CVRP Solver with Saving Algorithm
 
 This project implements a Capacitated Vehicle Routing Problem (CVRP) solver using a saving algorithm, built with React.js. CVRP is a classic problem in optimization and logistics where the goal is to determine the most efficient set of routes for a fleet of vehicles to deliver goods to a set of customers while respecting capacity constraints.
 
